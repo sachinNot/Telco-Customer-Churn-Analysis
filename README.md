@@ -51,7 +51,7 @@ The objective is to identify why customers leave and provide business recommenda
 ## 📊 Dashboard
 
 An interactive Power BI dashboard was created to visualize customer churn patterns and key business metrics.
-
+![Power BI Dashboard](Screenshot%202026-11-01%20043540.png)
 ## 👨‍💻 Author
 
 Sachin Kumar Chaudhary
